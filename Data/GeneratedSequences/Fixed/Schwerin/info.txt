@@ -1,0 +1,4 @@
+## Online bin packing with predictions
+
+A sample file for a sequence with a fixed distribution from the Schwerin distribution.
+Follow the instructions in the code to generate more sequences.
