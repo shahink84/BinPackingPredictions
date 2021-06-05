@@ -1,1 +1,3 @@
-info here
+## Online bin packing with predictions
+
+A sample file for a sequence with an evolving distribution from the GI distribution.
