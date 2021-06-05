@@ -1,0 +1,1 @@
+Weibull benchmark: item sizes are generated using the Weibull distribution with different shape parameters in (1,4).
