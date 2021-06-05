@@ -1,0 +1,2 @@
+Benchmark Randomly_Generated from BPPLib library (http://or.dei.unibo.it/library/bpplib).
+This Benchmark is by Maxence Delorme, Manuel Iori, and Silvano Martello (Bin packing and cutting stock problems: mathematical models and exact algorithms)
