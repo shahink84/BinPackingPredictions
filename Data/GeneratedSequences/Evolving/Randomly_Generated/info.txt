@@ -1,0 +1,4 @@
+## Online bin packing with predictions
+
+A sample file for a sequence with an evolving distribution from the Hard28 distribution.
+Follow the instructions in the code to generate more sequences.
