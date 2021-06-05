@@ -1,0 +1,3 @@
+Due to space limitation, we have included one sequence for each benchmark. 
+
+For experiments that require averaging over multiple sequences (e.g., those that involve Adaptive), please follow the instructions to generate new sequences before testing the algorithms. 
