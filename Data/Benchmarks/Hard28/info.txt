@@ -1,0 +1,2 @@
+Benchmark Hard28 from BPPLib library (http://or.dei.unibo.it/library/bpplib).
+This Benchmark is by Jon E. Schoenfield ("Fast, exact solution of open bin packing problems without linear programming").
