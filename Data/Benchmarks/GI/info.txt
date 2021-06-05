@@ -1,1 +1,2 @@
-info here
+Benchmark GI from BPPLib library (http://or.dei.unibo.it/library/bpplib).
+This Benchmark is by Timo Gschwind and Stefan Irnich ("Dual Inequalities for Stabilized Column Generation Revisited").
