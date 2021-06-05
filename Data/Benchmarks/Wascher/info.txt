@@ -1,0 +1,2 @@
+Benchmark Wascher from BPPLib library (http://or.dei.unibo.it/library/bpplib).
+This Benchmark is by Gerhard Wascher and Thomas Gau (Heuristics for the integer one-dimensional cutting stock problem: A computational study)
