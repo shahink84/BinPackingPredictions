@@ -1,0 +1,3 @@
+## Online bin packing with predictions
+
+After running the code, the results will be reported in separate files in this folder.
