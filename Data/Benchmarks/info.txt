@@ -1,4 +1,0 @@
-Benchmarks from the BPP Bin Packing library that are used in the experiments. There is also an additional "Weibull" benchmark which contains sequences with Weibull distribution with different shape parameters (as described in Section 6.2. of the paper).
-_______
-Please do not change the names of the existing.
- 
