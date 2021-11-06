@@ -1,6 +1,5 @@
 # Online Bin Packing with Predictions
-Experiments on online bin packing algorithms with predictions. See https://arxiv.org/abs/2102.03311
-
+Experiments on online bin packing algorithms with predictions. 
 
 ### Prerequisites
 
